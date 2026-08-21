@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:shubham321@gmail.com"><img src="https://img.shields.io/badge/Email-shubham321%40gmail.com-1F3864?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=shubham321-cyber&style=flat&color=1F3864&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-welcome-1F3864?style=flat" />
 </p>
 
 ---
@@ -28,7 +28,6 @@ open_to: DevOps / Cloud Internships
 - ⚙️ Build CI/CD pipelines that go from `git push` to a live, health-checked deployment
 - 🏗️ Provision infrastructure with Terraform instead of clicking through consoles
 - ☸️ Comfortable navigating container orchestration fundamentals with Kubernetes
-- 📌 Every pinned repo below is a real, deployed project — not a tutorial clone
 
 ---
 
@@ -49,42 +48,19 @@ open_to: DevOps / Cloud Internships
 
 ---
 
-### 📌 Featured Projects
+### 💡 What I Bring
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/shubham321-cyber/secure-vpc-cicd-deployment-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham321-cyber&repo=secure-vpc-cicd-deployment-project&theme=default&title_color=1F3864" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/shubham321-cyber/terraform-aws-mastery">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham321-cyber&repo=terraform-aws-mastery&theme=default&title_color=1F3864" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/shubham321-cyber/Docker-projects-WITH-MySQL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham321-cyber&repo=Docker-projects-WITH-MySQL&theme=default&title_color=1F3864" />
-      </a>
-    </td>
-  </tr>
-</table>
+**Cloud & Infrastructure**
+Provisioning AWS resources (VPC, EC2, Security Groups, IAM) as code — no manual console clicking.
 
----
+**Containers & Orchestration**
+Building multi-service apps with Docker, and working with Kubernetes for orchestration fundamentals.
 
-### 📊 GitHub Stats
+**CI/CD & Automation**
+Designing pipelines that take code from commit to a live, health-checked deployment with zero manual steps.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham321-cyber&show_icons=true&theme=default&title_color=1F3864&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham321-cyber&theme=default&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham321-cyber&theme=flat&title_color=1F3864&column=7&margin-w=8&no-frame=true" />
-</p>
+**Scripting & Systems**
+Comfortable in Linux environments, automating tasks with Bash and Python.
 
 ---
 
